@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1.3,
+    "editor.wordWrap": "on",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    
+}
